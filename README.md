@@ -10,7 +10,7 @@ Recently graduated with **First Class Honours** in **MSc Computing Science** fro
 - 🧠 **Currently Learning:** Deepening my expertise in **Flutter** for cross-platform mobile development.
 - 📧 **Email:** [altieryagmur@gmail.com](mailto:altieryagmur@gmail.com)
 
-# Tech Stack:
+## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,eclipse,js,html,css,php,mysql,py,figma,flutter,dotnet,nodejs,flutter,git,github,gitlab,wordpress" />
