@@ -3,7 +3,7 @@
 <!--
 **yagmurlt/yagmurlt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<h2>Software Developer | MSc Computing Science Graduate</h2>
+<h3>Software Developer | MSc Computing Science Graduate</h3>
 
 Recently graduated with **First Class Honours** in **MSc Computing Science** from **Griffith College**.
 - 🎓 **Education:** Recently completed my Master's in Computing Science at Griffith College (First Class Honours).
