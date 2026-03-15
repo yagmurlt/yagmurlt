@@ -13,7 +13,7 @@ Recently graduated with **First Class Honours** in **MSc Computing Science** fro
 ## Skills:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,eclipse,js,html,css,php,mysql,py,figma,flutter,dotnet,nodejs,flutter,git,github,gitlab,wordpress" />
+    <img src="https://skillicons.dev/icons?i=java,eclipse,js,html,css,php,mysql,py,figma,flutter,nodejs,flutter,git,github,gitlab,wordpress" />
   </a>
 </p>
 
