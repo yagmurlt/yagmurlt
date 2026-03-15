@@ -6,9 +6,9 @@
 Software Developer | MSc Computing Science Graduate
 
 Recently graduated with **First Class Honours** in **MSc Computing Science** from **Griffith College**.
-🎓 **Education:** Recently completed my Master's in Computing Science at Griffith College (First Class Honours).
-🧠 **Currently Learning:** Deepening my expertise in **Flutter** for cross-platform mobile development.
-📧 **Email:** [altieryagmur@gmail.com](mailto:altieryagmur@gmail.com)
+- 🎓 **Education:** Recently completed my Master's in Computing Science at Griffith College (First Class Honours).
+- 🧠 **Currently Learning:** Deepening my expertise in **Flutter** for cross-platform mobile development.
+- 📧 **Email:** [altieryagmur@gmail.com](mailto:altieryagmur@gmail.com)
 
 # Tech Stack:
 <p align="center">
